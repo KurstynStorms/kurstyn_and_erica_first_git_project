@@ -1,0 +1,14 @@
+h1 {font-style: italic}
+
+h1 {text-align: center;}
+
+.favorite-website {color: lightseagreen}
+
+div.developer {
+    width: 200px;
+    display: inline-block;
+    border: 2px solid grey;
+    border-radius: 5px;
+    padding: 6px;
+    text-align: center;
+}

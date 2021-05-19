@@ -1,3 +1,3 @@
 # kurstyn_and_erica_first_git_project
-
-# H1 "Power Code Academy Students"
+<h1>"Kurstyne Storm"</h1>
+<h2>"Erica Winne</h2>
